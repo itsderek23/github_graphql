@@ -1,6 +1,6 @@
 # GitHub GraphQL API Example
 
-The `github_graphql.rb` Ruby script generates a leaderboard of the most active pull request commentors via the GitHub GraphQL API.
+The `github_graphql.rb` Ruby script generates a leader board of the most active pull request comment authors via the GitHub GraphQL API.
 
 ## Usage
 
